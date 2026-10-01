@@ -204,3 +204,26 @@ No passwords, AWS access keys, secret keys, or other sensitive credentials are s
 
 ### 5. Restore Database
 ![Restore Database](screenshots/05-restore-database.png)
+
+## Skills Demonstrated
+
+- SQL and relational database operations
+- MariaDB database administration
+- CRUD operations
+- Data manipulation using SQL
+- SQL scripting
+- Database backup and restoration
+- Linux command-line operations
+- AWS EC2
+- AWS Systems Manager Session Manager
+- Database verification and troubleshooting
+
+## Key Takeaways
+
+This lab strengthened my practical understanding of relational databases and SQL operations. I practiced inserting, updating, deleting, querying, and restoring database data in a MariaDB environment hosted on AWS.
+
+I also learned the importance of verifying database changes after each operation and understanding the impact of SQL statements that modify multiple records.
+
+## Project Outcome
+
+Successfully completed a hands-on MariaDB database lab in an AWS environment, demonstrating practical skills in SQL, database administration, Linux, AWS infrastructure, and database backup restoration.
