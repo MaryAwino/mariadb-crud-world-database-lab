@@ -187,3 +187,20 @@ Successfully performed SQL CRUD operations and restored the `world` database usi
 ## Security Note
 
 No passwords, AWS access keys, secret keys, or other sensitive credentials are stored in this repository.
+
+## Screenshots
+
+### 1. Show Databases
+![Show Databases](screenshots/01-show-databases.png)
+
+### 2. Insert Data
+![Insert Data](screenshots/02-insert-data.png)
+
+### 3. Update Data
+![Update Data](screenshots/03-update-data.png)
+
+### 4. Delete Data
+![Delete Data](screenshots/04-delete-data.png)
+
+### 5. Restore Database
+![Restore Database](screenshots/05-restore-database.png)
